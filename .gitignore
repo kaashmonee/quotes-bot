@@ -1,2 +1,11 @@
+# Text Editors
+
+# VSCode
+# =====
+.vscode/
+
+
+# Misc
+# ====
 appinfo.txt
 praw.ini

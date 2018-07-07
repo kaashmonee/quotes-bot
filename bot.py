@@ -1,5 +1,8 @@
+import praw
+
+
 def main():
-    pass
+    reddit = praw.Reddit("")
 
 if __name__ == "__main__":
     main()
